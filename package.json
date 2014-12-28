@@ -1,6 +1,6 @@
 {
   "name": "weixin-device",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "微信硬件设备api接口",
   "main": "index.js",
   "scripts": {
